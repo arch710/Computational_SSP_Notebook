@@ -1,4 +1,4 @@
-# Computatiional_SSP_Notebook
+# Computational_SSP_Notebook
 A notebook in Computational Solid State Physics solving basic to advanced problems.
 
 - Band structure
