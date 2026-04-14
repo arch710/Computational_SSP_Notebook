@@ -16,4 +16,4 @@ eigenfunctions](https://d1wqtxts1xzle7.cloudfront.net/103235382/597786952cf82fc5
 Internal Coordinates: Theory and Test Applications](https://pubs.acs.org/doi/abs/10.1021/jp034440z)
 - [The Three-Dimensional Fourier Grid
 Hamiltonian Method](https://doi.org/10.1006/jcph.1997.5866)
-[Visualising higher order Brillouin zones and applications](https://physlab.org/wp-content/uploads/2021/04/Higher-Brillouin-Zones-andrew2017.pdf)
+- [Visualising higher order Brillouin zones and applications](https://physlab.org/wp-content/uploads/2021/04/Higher-Brillouin-Zones-andrew2017.pdf)
